@@ -1,0 +1,12 @@
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\bin\Debug\net6.0-windows\CapasDatos.deps.json
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\bin\Debug\net6.0-windows\CapasDatos.dll
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\bin\Debug\net6.0-windows\CapasDatos.pdb
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\obj\Debug\net6.0-windows\CapasDatos.vbproj.AssemblyReference.cache
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\obj\Debug\net6.0-windows\CapasDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\obj\Debug\net6.0-windows\CapasDatos.AssemblyInfoInputs.cache
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\obj\Debug\net6.0-windows\CapasDatos.AssemblyInfo.vb
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\obj\Debug\net6.0-windows\CapasDatos.vbproj.CoreCompileInputs.cache
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\obj\Debug\net6.0-windows\CapasDatos.dll
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\obj\Debug\net6.0-windows\refint\CapasDatos.dll
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\obj\Debug\net6.0-windows\CapasDatos.pdb
+C:\Users\shuma\source\repos\Proyecto\CapasDatos\obj\Debug\net6.0-windows\ref\CapasDatos.dll
